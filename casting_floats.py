@@ -1,0 +1,8 @@
+x=(2.8)
+y=(1)
+z=("5.8")
+w=("3.1")
+print(x)
+print(y)
+print(z)
+print(w)
